@@ -1,0 +1,9 @@
+name: UIPlugin
+main: UIPlugin/Main
+author: DustinMcNeese
+api: 4.0
+version: 1.0
+
+commands: 
+  help: 
+      description: "plugin description"
